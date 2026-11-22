@@ -12,3 +12,5 @@ android.sdk = 24
 android.buildtools = 30.0.3
 android.use_aapt2 = True
 android.permissions = INTERNET,WRITE_EXTERNAL_STORAGE
+android.accept_sdk_license = True
+android.skip_update = False
